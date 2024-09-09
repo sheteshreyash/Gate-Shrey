@@ -1,0 +1,9 @@
+1.Wap to unpack nibbles of character variable c, store lower nibble of c at lower nibble of character variable d & higher nibble of c at lower nibble of character variable e.(***variable c & higher nibble of variable d & e should be unaffected)
+2.Wap a program to swap lower & upper nibble of hexadecimal number (stored in a character variable ).
+3.Wap to set 28 th bit of integer variable without affecting other bits
+4.Wap to reset 3rd and 17th bit of int variable without affecting other bits
+5.Wap to copy bit no 3,4,5 from one character variable, to bit no 5,6,7 respectively of another character variable
+6.Wap to implement circular queue
+7.wap to implement stack using dynamic allocation
+8.wap to implement doubly linked list
+9.wap to implement stack using doubly linked list
